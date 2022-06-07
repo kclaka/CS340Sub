@@ -4,7 +4,7 @@
 -- This file contains Database Manipulation queries for the Well Life Project. 
 -- Query to add a new character functionality with colon : character being used to 
 -- denote the variables that will have data from the backend programming language
-
+-- program adapted from https://canvas.oregonstate.edu/courses/1870053/pages/exploration-intro-to-sql?module_item_id=22036001
 
 ---------------------------------------------------------------------
  --   All of the update, list, and delete queries for the Customers table

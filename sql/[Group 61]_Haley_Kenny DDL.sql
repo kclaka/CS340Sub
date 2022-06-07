@@ -2,7 +2,7 @@
 
 -- Project 61
 -- Haley Leavitt & Kenny Igbechi
- 
+--program adapted from https://canvas.oregonstate.edu/courses/1870053/pages/exploration-intro-to-sql?module_item_id=22036001
 
 SET FOREIGN_KEY_CHECKS=0;
 
